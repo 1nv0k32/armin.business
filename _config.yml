@@ -1,0 +1,29 @@
+title: Armin
+tagline: Your tagline goes here
+description: Personal website of Armin.
+url: "https://armin.business"
+baseurl: ""
+lang: en
+
+author:
+  name: Armin
+  email: hello@armin.business
+
+# Links shown on the card. Edit, remove, or add entries.
+links:
+  - name: GitHub
+    url: https://github.com/1nv0k32
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/your-handle
+  - name: Email
+    url: mailto:hello@armin.business
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - .devin
