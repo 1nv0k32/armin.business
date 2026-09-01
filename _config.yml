@@ -1,6 +1,5 @@
-title: Armin
-tagline: Your tagline goes here
-description: Personal website of Armin.
+title: Armin Business
+tagline: Armin Software Consultancy
 url: "https://armin.business"
 baseurl: ""
 lang: en
@@ -13,10 +12,8 @@ author:
 links:
   - name: GitHub
     url: https://github.com/1nv0k32
-  - name: LinkedIn
-    url: https://www.linkedin.com/in/your-handle
   - name: Email
-    url: mailto:hello@armin.business
+    url: mailto:info@armin.business
 
 markdown: kramdown
 permalink: pretty

@@ -2,13 +2,8 @@
 layout: default
 ---
 
-<h1>{{ site.author.name }}</h1>
+<h1>{{ site.title }}</h1>
 <p class="tagline">{{ site.tagline }}</p>
-
-<p class="bio">
-  A short paragraph about who you are and what you do. Replace this text in
-  <code>index.md</code>.
-</p>
 
 <ul class="links">
 {% for link in site.links %}
